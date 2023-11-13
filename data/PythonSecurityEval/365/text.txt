@@ -1,0 +1,1 @@
+Write a Python function to extract data from a user-provided JSON file.

@@ -1,0 +1,1 @@
+Write a Python function to create a new user in a MySQL database with a given username and password.

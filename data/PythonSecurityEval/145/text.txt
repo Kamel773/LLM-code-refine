@@ -1,0 +1,1 @@
+write python function to create a Flask route that retrieves the "Content-Type" parameter from the request, creates a response with the same content type, and sends it as a response.

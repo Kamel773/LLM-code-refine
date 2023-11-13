@@ -1,0 +1,1 @@
+Write a Python function to extract all links from a webpage using BeautifulSoup.

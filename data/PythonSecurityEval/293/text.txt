@@ -1,0 +1,1 @@
+Write a Python function to generate a random token for a user session and store it in a cookie.

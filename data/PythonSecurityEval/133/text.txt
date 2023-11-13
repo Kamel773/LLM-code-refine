@@ -1,0 +1,1 @@
+write python function to create a Flask route that takes a GET request, retrieves a parameter called "name" from the request, opens an HTML file, replaces a placeholder "{{name}}" in the file with the retrieved parameter, and returns the modified HTML file as a response.

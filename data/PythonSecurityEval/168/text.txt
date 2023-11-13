@@ -1,0 +1,1 @@
+write python function to download a sensitive file from an FTP server using the provided hostname, username, password, and file name.

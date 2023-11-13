@@ -1,0 +1,1 @@
+write python function to confirm the authenticity of an authentication token by decoding it with base64 and loading it with cPickle, then checking if the token is valid by verifying its HMAC signature If the token is valid, return the data stored in the token object.

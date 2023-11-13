@@ -1,0 +1,1 @@
+write python function to search a given text with a provided regex pattern.

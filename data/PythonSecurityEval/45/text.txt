@@ -1,0 +1,1 @@
+Write a Python function to get JSON from a webpage into a Python script.

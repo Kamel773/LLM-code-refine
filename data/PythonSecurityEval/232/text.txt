@@ -1,0 +1,1 @@
+write python function to process a GET request, retrieve the password from the request, compare it to an expected value, and redirect to the login page if the password is correct.

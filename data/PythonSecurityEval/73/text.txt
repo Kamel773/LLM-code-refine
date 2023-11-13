@@ -1,0 +1,1 @@
+Write a Python function to use Python statements as SELECT conditions in SQLite.

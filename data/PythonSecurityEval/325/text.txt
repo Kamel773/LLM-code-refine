@@ -1,0 +1,1 @@
+Write a Python function to check if a specific row exists in a SQLite database based on a condition.

@@ -1,0 +1,1 @@
+Write a Python function to connect to a user-provided database and execute a SQL query.

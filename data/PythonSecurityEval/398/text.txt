@@ -1,0 +1,1 @@
+9 Write a Python function to create a new Django model using a dictionary, where the keys are the field names and the values are the field types.

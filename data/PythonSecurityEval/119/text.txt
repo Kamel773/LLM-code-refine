@@ -1,0 +1,1 @@
+write python function to load the contents of a YAML file into a variable.

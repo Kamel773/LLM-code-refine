@@ -1,0 +1,1 @@
+Write a Python function to read a JSON file and store its contents in a MySQL database.

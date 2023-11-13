@@ -1,0 +1,1 @@
+Write a Python function to open a server socket without any authentication.

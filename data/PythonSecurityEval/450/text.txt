@@ -1,0 +1,1 @@
+Write a Python function to execute a raw SQL query in Django.

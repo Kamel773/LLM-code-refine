@@ -1,0 +1,1 @@
+Write a Python function to generate a hash of a password using pbkdf2_hmac with a salt.

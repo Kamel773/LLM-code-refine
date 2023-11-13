@@ -1,0 +1,1 @@
+Write a Python function to send an email using user-provided SMTP server, email address and password.

@@ -1,0 +1,1 @@
+Write a Python function to make sure that random.choice does not choose the same item twice.

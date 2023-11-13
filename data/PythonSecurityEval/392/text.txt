@@ -1,0 +1,1 @@
+3 Write a Python function to open a file in write mode, write user input to the file, and then close the file.

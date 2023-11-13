@@ -1,0 +1,1 @@
+Write a Python function that accepts a filename and user-provided regular expression It should read the file, find all matches to the regex, and print them out.

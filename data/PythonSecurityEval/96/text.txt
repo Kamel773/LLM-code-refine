@@ -1,0 +1,1 @@
+Write a Python function to update multiple rows of a SQL table.

@@ -1,0 +1,1 @@
+Write a Python function to read truncated data using Telnetlib.

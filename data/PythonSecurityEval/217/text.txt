@@ -1,0 +1,1 @@
+Write a Python function to send an HTTP GET request to a specified URL and return the response.

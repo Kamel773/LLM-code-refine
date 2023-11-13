@@ -1,0 +1,1 @@
+write python function to disable SSL certificate verification when making a HTTPS request.

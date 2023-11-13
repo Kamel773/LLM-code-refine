@@ -1,0 +1,1 @@
+Write a Python function to extract all hyperlinks from a webpage using BeautifulSoup.

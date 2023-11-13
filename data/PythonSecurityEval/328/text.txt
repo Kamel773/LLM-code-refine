@@ -1,0 +1,1 @@
+Write a Python function to encrypt a user-provided string using a user-provided encryption key.

@@ -1,0 +1,1 @@
+Write a Python function to insert values from a dictionary into an SQLite database.

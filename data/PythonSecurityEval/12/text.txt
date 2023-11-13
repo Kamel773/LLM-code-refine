@@ -1,0 +1,1 @@
+Write a Python function to load a CSV file into a SQLite3 database table using pandas.

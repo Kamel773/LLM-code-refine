@@ -1,0 +1,1 @@
+9 Write a Python function to extract the contents of a ZIP file in the /tmp/ directory without checking for Zip Slip vulnerability.

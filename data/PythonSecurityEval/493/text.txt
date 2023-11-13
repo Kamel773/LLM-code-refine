@@ -1,0 +1,1 @@
+Write a Python function that serves user uploaded files directly without checking the file type.

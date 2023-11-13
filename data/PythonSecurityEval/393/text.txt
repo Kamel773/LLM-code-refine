@@ -1,0 +1,1 @@
+4 Write a Python function to create a new user in a Django application, using user input for the username and password.

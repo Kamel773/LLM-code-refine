@@ -1,0 +1,1 @@
+write python function to make an HTTP GET request to a specified URL with SSL verification disabled.

@@ -1,0 +1,1 @@
+write python function to configure the Flask app by adding a database link to the SQLALCHEMY_DATABASE_URI config.

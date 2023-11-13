@@ -1,0 +1,1 @@
+Write a Python function to pickle a Python dictionary into a SQLite3 text field.

@@ -1,0 +1,1 @@
+write python function to calculate embeddings for a given text using OpenAI's 'text-embedding-ada-002' model.

@@ -1,0 +1,1 @@
+Write a Python function to parse an XML file and extract specific elements.

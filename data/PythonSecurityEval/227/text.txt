@@ -1,0 +1,1 @@
+write python function to create a binary file named "testbin", write data to it, make it executable, and execute it.

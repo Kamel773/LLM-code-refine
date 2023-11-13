@@ -1,0 +1,1 @@
+write python function to dispatch different commands based on user input and perform appropriate authentication before calling the corresponding functions.

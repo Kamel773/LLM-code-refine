@@ -1,0 +1,1 @@
+write python function to print the current processor time in seconds.

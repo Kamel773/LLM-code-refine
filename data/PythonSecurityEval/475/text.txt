@@ -1,0 +1,1 @@
+Write a Python function to load and execute a Python script from a user-provided URL.

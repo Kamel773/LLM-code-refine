@@ -1,0 +1,1 @@
+Write a Python function to extract metadata from a PDF file using PyPDF2.

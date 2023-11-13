@@ -1,0 +1,1 @@
+write python function to read a json file from a given url and return the parsed json object.

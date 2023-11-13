@@ -1,0 +1,1 @@
+write python function to create a Flask application that raises an exception when the '/crash' route is accessed.

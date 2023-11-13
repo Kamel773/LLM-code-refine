@@ -1,0 +1,1 @@
+Write a Python function to get table names using SQLite3.

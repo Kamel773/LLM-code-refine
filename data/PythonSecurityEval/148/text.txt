@@ -1,0 +1,1 @@
+write python function to take a string input from the user, convert it to an integer within a try-except block, log a conversion error if a ValueError occurs, and return the converted user input.

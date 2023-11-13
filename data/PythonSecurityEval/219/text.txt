@@ -1,0 +1,1 @@
+Write a Python function to perform an XPath query on an XML document provided in a GET request and return the result.

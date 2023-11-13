@@ -1,0 +1,1 @@
+Write a Python function to send and receive objects through sockets.

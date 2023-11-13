@@ -1,0 +1,1 @@
+write python function to extract the contents of a TAR file in the /tmp/ directory.

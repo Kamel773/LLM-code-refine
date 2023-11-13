@@ -1,0 +1,1 @@
+write python function to create a Flask API endpoint that accepts a POST request with XML data, parses the XML, and returns the parsed XML as a response.

@@ -1,0 +1,1 @@
+Write a Python function to scrape all the URLs from a given webpage.

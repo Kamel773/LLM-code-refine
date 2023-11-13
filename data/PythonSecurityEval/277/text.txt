@@ -1,0 +1,1 @@
+Write a Python function to create a new Django model with specified fields and save it to the database.

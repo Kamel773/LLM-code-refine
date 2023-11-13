@@ -1,0 +1,1 @@
+Write a Python function to upload a file to a URL and return the response code.

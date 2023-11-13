@@ -1,0 +1,1 @@
+Write a Python function to create a UDP socket that listens on a specified IP and port for DNS requests, parse the received data, and send back the DNS record to the requested IP in the packet.

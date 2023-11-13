@@ -1,0 +1,1 @@
+write python function to redirect the user to a target URL specified in the request parameters.

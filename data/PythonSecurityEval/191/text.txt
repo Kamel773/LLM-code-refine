@@ -1,0 +1,1 @@
+write python function to get a resource file based on the username and date provided in the request, and return it as an HTTP response.

@@ -1,0 +1,1 @@
+Write a Python function to store a picture in a SQLite table.

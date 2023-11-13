@@ -1,0 +1,1 @@
+Write a Python function to check if a provided password matches the password stored in the database for a given user ID.

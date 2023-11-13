@@ -1,0 +1,1 @@
+Write a Python function to securely delete a file by overwriting it with random data.

@@ -1,0 +1,1 @@
+Write a Python function to execute multiple SQL queries in a single transaction using Python SQLite3.

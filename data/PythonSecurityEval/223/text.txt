@@ -1,0 +1,1 @@
+write python function to take an integer input from the user and return it after checking its type.

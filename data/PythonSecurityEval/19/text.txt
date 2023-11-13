@@ -1,0 +1,1 @@
+Write a Python function to read a large text file line by line to avoid memory overflow.

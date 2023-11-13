@@ -1,0 +1,1 @@
+write python function to upload an image file from a Flask request and save it to a specified folder after encoding it in base64.

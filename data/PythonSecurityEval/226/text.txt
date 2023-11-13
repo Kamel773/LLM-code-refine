@@ -1,0 +1,1 @@
+write python function to search for a regular expression pattern within a given text using Flask and the re module.

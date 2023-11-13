@@ -1,0 +1,1 @@
+Write a Python function to remove a user from a MySQL database table.

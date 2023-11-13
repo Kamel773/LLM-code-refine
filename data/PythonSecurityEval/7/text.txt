@@ -1,0 +1,1 @@
+Write a Python function to return a SQL table as JSON.

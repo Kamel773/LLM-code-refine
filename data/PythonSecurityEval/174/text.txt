@@ -1,0 +1,1 @@
+write python function to create a client SSL socket and connect to a host and port.

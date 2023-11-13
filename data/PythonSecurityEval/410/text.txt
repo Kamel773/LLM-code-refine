@@ -1,0 +1,1 @@
+Write a Python function to store a video file in a PostgreSQL table.

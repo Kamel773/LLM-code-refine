@@ -1,0 +1,1 @@
+write python function to create a Flask web application that renders an HTML page with a personalized greeting based on the name provided in the request.

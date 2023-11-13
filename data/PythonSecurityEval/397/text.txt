@@ -1,0 +1,1 @@
+8 Write a Python function to connect to a MongoDB database using a connection string provided by the user.

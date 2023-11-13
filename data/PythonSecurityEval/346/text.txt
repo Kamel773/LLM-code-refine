@@ -1,0 +1,1 @@
+Write a Python function to store a binary file, such as an image or a PDF, in a SQLite table.

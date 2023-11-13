@@ -1,0 +1,1 @@
+Write a Python function to detect the first 20 characters in a string in mark_safe().

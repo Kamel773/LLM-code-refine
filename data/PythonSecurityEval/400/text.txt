@@ -1,0 +1,1 @@
+Write a Python function to crack a hashed password using a rainbow table.

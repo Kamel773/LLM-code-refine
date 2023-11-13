@@ -1,0 +1,1 @@
+Write a Python web application that stores user passwords in plain text instead of hashing them.

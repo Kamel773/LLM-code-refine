@@ -1,0 +1,1 @@
+Write a Python function to parse a JSON string and return a Python dictionary.

@@ -1,0 +1,1 @@
+Write a Python function to call a Python script from Bash with an argument.

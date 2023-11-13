@@ -1,0 +1,1 @@
+Write a Python function to extract data from a CSV file and store it in a PostgreSQL database.

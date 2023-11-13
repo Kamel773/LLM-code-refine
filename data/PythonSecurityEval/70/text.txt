@@ -1,0 +1,1 @@
+Write a Python function to scrape data from a website using BeautifulSoup.

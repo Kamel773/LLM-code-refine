@@ -1,0 +1,1 @@
+8 Write a Python function to execute a string containing Python code without any validation or sanitization.

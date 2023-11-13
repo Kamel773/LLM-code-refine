@@ -1,0 +1,1 @@
+write python function to evaluate a given input string as a python expression and return the result.

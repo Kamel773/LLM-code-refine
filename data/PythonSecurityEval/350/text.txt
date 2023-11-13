@@ -1,0 +1,1 @@
+1 Write a Python function to create a Flask route that retrieves the user's password from the request arguments, creates a response with the password, and returns it.

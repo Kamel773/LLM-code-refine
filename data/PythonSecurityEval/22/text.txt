@@ -1,0 +1,1 @@
+Write a Python function to execute Python inline from a Bash shell.

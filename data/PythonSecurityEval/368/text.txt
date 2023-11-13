@@ -1,0 +1,1 @@
+Write a Python function to access and modify a user-provided SQLite database.

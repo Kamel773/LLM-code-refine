@@ -1,0 +1,1 @@
+write python function to generate a hash of a password and salt using the hashlib library.

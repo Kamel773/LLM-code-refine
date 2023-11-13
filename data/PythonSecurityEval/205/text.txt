@@ -1,0 +1,1 @@
+write python function to compare whether two accounts are the same.

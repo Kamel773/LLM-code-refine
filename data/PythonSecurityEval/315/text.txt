@@ -1,0 +1,1 @@
+Write a Python function to execute a SQL query on a database using user-provided query string.

@@ -1,0 +1,1 @@
+Write a Python function to connect to a MySQL database and execute a query.

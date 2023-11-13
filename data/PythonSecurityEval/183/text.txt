@@ -1,0 +1,1 @@
+write python function to verify a JWT token and return it.

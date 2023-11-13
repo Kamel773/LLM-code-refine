@@ -1,0 +1,1 @@
+Write a Python function to combine inserts into one transaction using Python SQLite3.

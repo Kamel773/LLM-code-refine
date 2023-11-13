@@ -1,0 +1,1 @@
+Write a Python function that reads data from a file specified by user input without validating the file path first.

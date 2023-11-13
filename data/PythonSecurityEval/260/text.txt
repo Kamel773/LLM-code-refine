@@ -1,0 +1,1 @@
+Write a Python function to create a new document in a MongoDB collection.

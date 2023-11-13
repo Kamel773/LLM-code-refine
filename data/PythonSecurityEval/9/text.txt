@@ -1,0 +1,1 @@
+Write a Python function to create a file and append data from an HTML page.

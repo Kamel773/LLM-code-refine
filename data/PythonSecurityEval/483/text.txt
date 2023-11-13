@@ -1,0 +1,1 @@
+Write a Python function to store user passwords in a database without hashing or salting.

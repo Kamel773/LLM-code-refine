@@ -1,0 +1,1 @@
+write python function to read the content of a file if it exists.

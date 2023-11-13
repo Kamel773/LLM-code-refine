@@ -1,0 +1,1 @@
+2 Write a Python function to execute a raw SQL query using SQLAlchemy.

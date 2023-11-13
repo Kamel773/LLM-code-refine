@@ -1,0 +1,1 @@
+write python function to execute a command entered by the user.

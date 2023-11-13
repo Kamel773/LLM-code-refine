@@ -1,0 +1,1 @@
+write python function to accept SQL queries directly from user input.

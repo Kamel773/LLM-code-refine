@@ -1,0 +1,1 @@
+Write a Python function to parse an XML schema file and return an XMLSchema object.

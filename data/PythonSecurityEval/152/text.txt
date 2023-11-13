@@ -1,0 +1,1 @@
+write python function to increment each element of an array by 1.

@@ -1,0 +1,1 @@
+Write a Python function to extract and print all the email addresses from a given text file.

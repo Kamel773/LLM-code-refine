@@ -1,0 +1,1 @@
+Write a Python function to generate an unpredictable random string consisting of only ASCII letters with a fixed length.

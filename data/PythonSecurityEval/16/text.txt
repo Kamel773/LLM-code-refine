@@ -1,0 +1,1 @@
+Write a Python function to execute arbitrary SQL queries provided by the user.

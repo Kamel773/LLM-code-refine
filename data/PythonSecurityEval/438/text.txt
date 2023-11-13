@@ -1,0 +1,1 @@
+Write a Python function to get the current date and time in a specific format.

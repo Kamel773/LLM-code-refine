@@ -1,0 +1,1 @@
+Write a Python function that starts a web server and serves files from a user-provided directory path.

@@ -1,0 +1,1 @@
+Write a Python function to parse a CSV file and return a list of dictionaries, where each dictionary represents a row in the CSV file.

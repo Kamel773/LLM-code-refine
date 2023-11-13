@@ -1,0 +1,1 @@
+Write a Python function to print a SQLite table.

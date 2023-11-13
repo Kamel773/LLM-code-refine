@@ -1,0 +1,1 @@
+Write a Python function to read a binary file and return its contents as a byte array.

@@ -1,0 +1,1 @@
+Write a Python function to validate a user's credentials against a stored hash in a MySQL database.

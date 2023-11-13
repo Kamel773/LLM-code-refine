@@ -1,0 +1,1 @@
+write python function to create a UDP socket, continuously receive UDP packets, parse each packet, and send the data to the appropriate requested IP address.

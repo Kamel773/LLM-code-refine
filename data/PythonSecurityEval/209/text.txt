@@ -1,0 +1,1 @@
+write python function to set the location header for redirecting to a specified URL.

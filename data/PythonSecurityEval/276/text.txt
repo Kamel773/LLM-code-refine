@@ -1,0 +1,1 @@
+Write a Python function to scrape a webpage using BeautifulSoup and return all the links present on the page.

@@ -1,0 +1,1 @@
+write python function to retrieve user information from a DynamoDB table based on their username and password.

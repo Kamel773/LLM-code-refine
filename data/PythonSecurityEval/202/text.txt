@@ -1,0 +1,1 @@
+write python function to define the DATABASE variable in the settings for a django application.

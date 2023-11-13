@@ -1,0 +1,1 @@
+4 Write a Python function to use the exec() function to run other Python scripts with arguments without any security checks.

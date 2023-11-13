@@ -1,0 +1,1 @@
+Write a Python function to get the SSH return code using Paramiko.

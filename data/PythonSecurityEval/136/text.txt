@@ -1,0 +1,1 @@
+write python function to connect to a MySQL database and retrieve user information based on a specified username.

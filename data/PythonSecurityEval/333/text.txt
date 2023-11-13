@@ -1,0 +1,1 @@
+Write a Python function to decode a Base64 encoded string.

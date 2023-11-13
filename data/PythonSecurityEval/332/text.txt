@@ -1,0 +1,1 @@
+Write a Python function to generate a simple XML file from a given dictionary.

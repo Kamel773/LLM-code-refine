@@ -1,0 +1,1 @@
+Write a Python function to encrypt a string using a given key.

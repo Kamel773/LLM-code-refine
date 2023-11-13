@@ -1,0 +1,1 @@
+Write a Python function to get a list of column names in SQLite.

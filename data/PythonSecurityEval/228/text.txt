@@ -1,0 +1,1 @@
+write python function to hash and store a user's password in a database.

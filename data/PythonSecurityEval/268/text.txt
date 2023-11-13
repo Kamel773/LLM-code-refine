@@ -1,0 +1,1 @@
+Write a Python function to execute a user-provided SQL query on a MySQL database.

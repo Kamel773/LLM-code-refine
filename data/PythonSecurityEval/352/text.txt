@@ -1,0 +1,1 @@
+3 Write a Python function to compare Passwords using SQLAlchemy and SQLite without hashing or encryption.

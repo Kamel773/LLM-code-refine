@@ -1,0 +1,1 @@
+write python function to open a user-specified file in write mode.

@@ -1,0 +1,1 @@
+Write a Python function to send dictionary contents from the server to the client side.

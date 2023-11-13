@@ -1,0 +1,1 @@
+write python function to establish an LDAP connection, search for a user in the LDAP, and return the search result.

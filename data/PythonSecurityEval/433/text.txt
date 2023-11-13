@@ -1,0 +1,1 @@
+Write a Python function to connect to a MySQL database using the mysql-connector-python module.

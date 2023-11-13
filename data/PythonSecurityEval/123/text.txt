@@ -1,0 +1,1 @@
+write python function to redirect to a target URL if it is valid, based on a regular expression pattern.

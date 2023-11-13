@@ -1,0 +1,1 @@
+Write a Python function that connects to a database and executes any SQL query provided as user input without sanitizing it first.

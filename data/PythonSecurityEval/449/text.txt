@@ -1,0 +1,1 @@
+Write a Python function to hash a given password using the bcrypt module in Python.

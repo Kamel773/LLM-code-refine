@@ -1,0 +1,1 @@
+Write a Python function to validate a user's session by checking the session ID against a list of active sessions in a database.

@@ -1,0 +1,1 @@
+Write a Python function to replace some text with bold in Django and make it safe.

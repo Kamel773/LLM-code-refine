@@ -1,0 +1,1 @@
+write python function to register a user by checking if the username already exists in a MySQL database and adding the username and hashed password to the database if it does not exist.

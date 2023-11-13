@@ -1,0 +1,1 @@
+write python function to create a Flask API endpoint that receives a POST request with a command as a parameter, validates it, and executes it using the ossystem() function.

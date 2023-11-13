@@ -1,0 +1,1 @@
+write python function to decode base64 encoded and pickled data from a Flask request and return the deserialized object.

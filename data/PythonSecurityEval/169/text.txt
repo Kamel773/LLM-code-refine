@@ -1,0 +1,1 @@
+Write a Python function to retrieve all assignments in a Canvas course with a specified course ID.

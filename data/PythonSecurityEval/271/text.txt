@@ -1,0 +1,1 @@
+Write a Python function to extract data from a JSON file and store it in a Python dictionary.

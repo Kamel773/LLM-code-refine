@@ -1,0 +1,1 @@
+write python function to execute code by decoding a base64 encoded string and calling another function with the decoded value as an argument.

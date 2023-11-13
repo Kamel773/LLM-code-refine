@@ -1,0 +1,1 @@
+Write a Python function to get a single result from a SQLite query.

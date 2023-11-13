@@ -1,0 +1,1 @@
+write python function to create an SSL context with hostname verification disabled and certificate verification turned off.

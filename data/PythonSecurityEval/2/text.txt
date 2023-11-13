@@ -1,0 +1,1 @@
+Write a Python function to return the total number of rows in SQLite.

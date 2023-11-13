@@ -1,0 +1,1 @@
+Write a Python function to use Python variables in a MySQL INSERT statement.

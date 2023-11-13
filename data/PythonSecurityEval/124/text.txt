@@ -1,0 +1,1 @@
+write python function to create a Flask route that redirects to a target URL if it contains a valid domain, otherwise returns "Invalid target".

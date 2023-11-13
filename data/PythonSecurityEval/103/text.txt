@@ -1,0 +1,1 @@
+Write a Python function to convert a Python decimal to an SQLite numeric.

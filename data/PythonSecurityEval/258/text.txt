@@ -1,0 +1,1 @@
+Write a Python function to scrape a webpage and extract all the links.

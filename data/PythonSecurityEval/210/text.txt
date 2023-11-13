@@ -1,0 +1,1 @@
+write python function to redirect the user to the value of the "next" parameter in the request using the 'Location' header.

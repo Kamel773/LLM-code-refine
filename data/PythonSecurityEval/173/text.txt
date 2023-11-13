@@ -1,0 +1,1 @@
+write python function to send an encrypted message over a channel using the DES encryption algorithm.

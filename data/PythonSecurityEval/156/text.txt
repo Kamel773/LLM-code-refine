@@ -1,0 +1,1 @@
+write python function to create a new user directory at the /home/ directory for a given username, while temporarily raising and lowering privileges, and handling exceptions if the directory already exists.

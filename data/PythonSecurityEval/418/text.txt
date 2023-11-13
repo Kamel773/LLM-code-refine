@@ -1,0 +1,1 @@
+Write a Python function to connect to a FTP server using a user-provided username and password.

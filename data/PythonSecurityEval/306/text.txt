@@ -1,0 +1,1 @@
+Write a Python function to generate a secure random token for user authentication.

@@ -1,0 +1,1 @@
+write python function to connect to a MySQL database using the root user and no password.

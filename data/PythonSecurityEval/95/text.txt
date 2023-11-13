@@ -1,0 +1,1 @@
+Write a Python function to insert Python lists into a SQLite table.

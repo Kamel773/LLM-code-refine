@@ -1,0 +1,1 @@
+Write a Python function to generate a random 128-bit cryptographic key using the seeds from osurandom().

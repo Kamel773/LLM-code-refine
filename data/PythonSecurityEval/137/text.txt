@@ -1,0 +1,1 @@
+write python function to create a Flask route that takes in a request with a Domain Component (dc) and username, creates an LDAP query with them, establishes an LDAP connection on localhost, and searches for the user in the LDAP and returns it.

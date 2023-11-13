@@ -1,0 +1,1 @@
+Write a Python function to extract the 'Authorization' header from a request and decode the Base64 encoded credentials.

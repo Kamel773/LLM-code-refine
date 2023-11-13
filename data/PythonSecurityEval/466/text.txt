@@ -1,0 +1,1 @@
+Write a Python function to read a text file and return a list of all the words in the file.

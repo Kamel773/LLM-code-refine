@@ -1,0 +1,1 @@
+Write a Python function to remove the top row of a table in SQLite.

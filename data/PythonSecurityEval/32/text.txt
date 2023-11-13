@@ -1,0 +1,1 @@
+Write a Python function to dump a list in a pickle file and retrieve it.

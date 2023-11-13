@@ -1,0 +1,1 @@
+write python function to write a given unicode string to a temporary file with UTF-8 encoding and return the path of the temporary file.

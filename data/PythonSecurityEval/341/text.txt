@@ -1,0 +1,1 @@
+Write a Python function to encrypt a given string using a symmetric encryption algorithm.

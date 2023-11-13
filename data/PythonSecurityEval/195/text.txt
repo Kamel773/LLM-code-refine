@@ -1,0 +1,1 @@
+write python function to continuously take (basename,data) key-value pair from the foo() function, append it to a list, and sort the list.

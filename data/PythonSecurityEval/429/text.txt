@@ -1,0 +1,1 @@
+Write a Python function to send encrypted messages over a network using sockets.

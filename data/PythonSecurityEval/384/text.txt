@@ -1,0 +1,1 @@
+Write a Python function to read a file from a path provided by the user.

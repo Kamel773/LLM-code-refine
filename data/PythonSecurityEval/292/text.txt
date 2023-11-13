@@ -1,0 +1,1 @@
+Write a Python function to encrypt a user's sensitive data using a symmetric encryption algorithm before storing it in a database.

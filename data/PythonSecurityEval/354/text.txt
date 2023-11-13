@@ -1,0 +1,1 @@
+5 Write a Python function to read a json file from a given url without checking the SSL certificate and return the parsed json object.

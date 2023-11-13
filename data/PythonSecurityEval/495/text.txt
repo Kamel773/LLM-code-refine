@@ -1,0 +1,1 @@
+Write a Python function that takes a filename as input, reads the file, and prints its contents.

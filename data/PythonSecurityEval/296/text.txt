@@ -1,0 +1,1 @@
+Write a Python function to validate a user's email address format before sending them an email.

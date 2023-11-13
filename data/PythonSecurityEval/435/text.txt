@@ -1,0 +1,1 @@
+Write a Python function to generate a QR code for a given string using the qrcode library.

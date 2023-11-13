@@ -1,0 +1,1 @@
+Write a Python function to decode a base64 encoded string and save it as an image file in a specified directory.

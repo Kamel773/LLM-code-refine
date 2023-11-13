@@ -1,0 +1,1 @@
+Write a Python function that reads sensitive data like passwords from a configuration file and prints it.

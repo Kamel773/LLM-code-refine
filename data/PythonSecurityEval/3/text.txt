@@ -1,0 +1,1 @@
+Write a Python function to post JSON data and return the response code.

@@ -1,0 +1,1 @@
+Write a Python function to load a JSON file from a URL provided as a command-line argument.

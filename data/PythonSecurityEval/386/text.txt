@@ -1,0 +1,1 @@
+Write a Python function to remove the first document of a collection in MongoDB.

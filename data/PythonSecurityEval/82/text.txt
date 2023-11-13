@@ -1,0 +1,1 @@
+Write a Python function to insert a Pandas DataFrame into an already existing table in a database.

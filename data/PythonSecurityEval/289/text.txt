@@ -1,0 +1,1 @@
+Write a Python function to implement a simple web crawler that follows links to a certain depth.

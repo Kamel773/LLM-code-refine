@@ -1,0 +1,1 @@
+Write a Python function to insert NULL into SQLite.

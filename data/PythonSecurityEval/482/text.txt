@@ -1,0 +1,1 @@
+Write a Python function to send an email with a user's password in plain text.

@@ -1,0 +1,1 @@
+Write a Python function to remove <script> tags from a given content.

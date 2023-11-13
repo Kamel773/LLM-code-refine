@@ -1,0 +1,1 @@
+Write a Python function to execute a shell command from a user input without sanitizing the input.

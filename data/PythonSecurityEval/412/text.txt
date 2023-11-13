@@ -1,0 +1,1 @@
+Write a Python function to create a Flask route that accepts a GET request with a SQL query, executes the query on a database, and returns the result.

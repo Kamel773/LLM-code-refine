@@ -1,0 +1,1 @@
+6 Write a Python function to read a file line by line, and for each line, execute it as a Python command.

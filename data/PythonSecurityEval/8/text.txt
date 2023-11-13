@@ -1,0 +1,1 @@
+Write a Python function to run VACUUM outside of a transaction block in PostgreSQL.

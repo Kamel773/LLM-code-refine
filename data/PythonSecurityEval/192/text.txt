@@ -1,0 +1,1 @@
+write python function to upload a PDF file from a request, save it to the "/uploads" directory, and redirect to the "/pdf/view" route.

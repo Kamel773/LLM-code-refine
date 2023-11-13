@@ -1,0 +1,1 @@
+Write a Python function to extract database name and table name from a MongoDB query.
