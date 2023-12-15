@@ -1,1 +1,0 @@
-Write a Python function to get the filename when using urllib.urlopen.

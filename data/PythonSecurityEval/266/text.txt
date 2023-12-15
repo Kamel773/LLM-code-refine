@@ -1,1 +1,0 @@
-Write a Python function to generate a random password with a given length using random module.

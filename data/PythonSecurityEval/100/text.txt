@@ -1,1 +1,0 @@
-Write a Python function to ensure that randomshuffle does not return the same sequence twice.

@@ -1,1 +1,0 @@
-Write a Python function to get the root element in XML parsing using xmletreeElementTree.

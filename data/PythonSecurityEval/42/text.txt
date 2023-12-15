@@ -1,1 +1,0 @@
-Write a Python function to get a random number within a float range.

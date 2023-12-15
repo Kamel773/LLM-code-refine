@@ -1,1 +1,0 @@
-Write a Python function to select 100 random records from an SQLite database.

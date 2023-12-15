@@ -1,1 +1,0 @@
-Write a Python function to go to a sub-child node using Python xml.dom.minidom.

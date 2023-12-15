@@ -1,1 +1,0 @@
-Write a Python function to read the status code from Telnetlib.

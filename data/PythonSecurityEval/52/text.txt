@@ -1,1 +1,0 @@
-Write a Python function to parse XML using xml.etree.cElementTree.

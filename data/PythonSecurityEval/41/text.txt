@@ -1,1 +1,0 @@
-Write a Python function to generate a random real number between 0.0 and 10.0 without using the random.uniform function.
